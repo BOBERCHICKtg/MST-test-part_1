@@ -129,6 +129,7 @@ content>div {
   margin-bottom: 32px;
   font-family: Oswald;
   transition-duration: 0.4s;
+  cursor: pointer;
 }
 
 .header__info_button:hover {
@@ -204,6 +205,7 @@ content>div {
   font-weight: 600;
   font-family: Oswald;
   transition-duration: 0.4s;
+  cursor: pointer;
 }
 
 .description__button:hover {
@@ -278,6 +280,7 @@ content>div {
   border: 1px solid rgb(40, 40, 41);
   border-radius: 5px;
   transition-duration: 0.4s;
+  cursor: pointer;
 }
 
 .registration__box_button:hover {
@@ -410,6 +413,7 @@ input[type=checkbox]:checked+.custom-checkbox {
   border: 1px solid rgb(222, 222, 222);
   border-radius: 5px;
   transition-duration: 0.4s;
+  cursor: pointer;
 }
 
 .footer__button_info:hover {
